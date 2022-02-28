@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{2852F399-8B03-596F-9C9B-EC6CFB9D7BA5}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/BackGroundMusic.cs">
+    <Files>
+      <File FileName="Assets/scripts/ScoreManger.cs" Line="17" Column="54" />
+      <File FileName="Assets/scripts/BackGroundMusic.cs" Line="18" Column="34" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="stay safe" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="scripts" expanded="True">
+                <Node name="BackGroundMusic.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="633bb819-0a19-41d2-943d-09f5cf906932" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
